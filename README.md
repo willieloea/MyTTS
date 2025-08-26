@@ -1,5 +1,4 @@
 # MyTTS
-The goal of this project is to enable people to setup their own TTS app.
 
 ## Mission
 An app like [ElevenReader](https://elevenreader.io/) allows you to provide it
